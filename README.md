@@ -21,13 +21,14 @@ API REST documentada automaticamente pelo FastAPI (Swagger)
 O sistema foi projetado separando as regras de negócio da camada de API, seguindo boas práticas de desenvolvimento backend e proporcionando maior escalabilidade e manutenibilidade.
 
 - Tecnologias utilizadas - 
-Python
-FastAPI
-SQLite
-Pydantic
-Uvicorn
-Dataclasses
-Programação Orientada a Objetos (POO)
-Objetivo
+Python |
+FastAPI|
+SQLite |
+Pydantic |
+Uvicorn |
+Dataclasses |
+Programação Orientada a Objetos (POO) |
+
+- Objetivo
 
 O projeto foi desenvolvido com foco no estudo e aplicação prática de conceitos de Backend Development, APIs REST, persistência de dados e modelagem de sistemas transacionais.
