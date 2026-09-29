@@ -30,4 +30,4 @@ Dataclasses
 Programação Orientada a Objetos (POO)
 Objetivo
 
-# O projeto foi desenvolvido com foco no estudo e aplicação prática de conceitos de Backend Development, APIs REST, persistência de dados e modelagem de sistemas transacionais.
+O projeto foi desenvolvido com foco no estudo e aplicação prática de conceitos de Backend Development, APIs REST, persistência de dados e modelagem de sistemas transacionais.
