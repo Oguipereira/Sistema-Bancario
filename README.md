@@ -20,7 +20,7 @@ API REST documentada automaticamente pelo FastAPI (Swagger)
 
 O sistema foi projetado separando as regras de negócio da camada de API, seguindo boas práticas de desenvolvimento backend e proporcionando maior escalabilidade e manutenibilidade.
 
-- Tecnologias utilizadas
+- Tecnologias utilizadas - 
 Python
 FastAPI
 SQLite
